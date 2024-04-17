@@ -1,0 +1,5 @@
+# ninja log v5
+0	17	1713092652279698965	build.ninja	efc0f37d64de5a8f
+1	4	1712903578021631818	CMakeFiles/Lab2.dir/my_print.asm.o	3973222c963a9fae
+9	285	1712903099193350729	CMakeFiles/Lab2.dir/compare.cpp.o	167b2f9213b2da3f
+1	286	1712918078182958365	CMakeFiles/Lab2.dir/main.cpp.o	5d9aa1eaf836eb4f

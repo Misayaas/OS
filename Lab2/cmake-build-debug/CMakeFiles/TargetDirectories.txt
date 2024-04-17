@@ -1,0 +1,3 @@
+/home/misayaas/OS_homework/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir
+/home/misayaas/OS_homework/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/misayaas/OS_homework/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
